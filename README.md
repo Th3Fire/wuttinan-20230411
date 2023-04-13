@@ -4,6 +4,7 @@ This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang
 
 
 ## Getting started
+Quick preview: https://th3fire.github.io/wuttinan-20230411/
 
 ### Prerequisites
 
