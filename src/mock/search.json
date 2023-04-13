@@ -1,0 +1,1317 @@
+{
+    "coins": [
+      {
+        "id": "bitcoin",
+        "name": "Bitcoin",
+        "api_symbol": "bitcoin",
+        "symbol": "BTC",
+        "market_cap_rank": 1,
+        "thumb": "https://assets.coingecko.com/coins/images/1/thumb/bitcoin.png",
+        "large": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png"
+      },
+      {
+        "id": "wrapped-bitcoin",
+        "name": "Wrapped Bitcoin",
+        "api_symbol": "wrapped-bitcoin",
+        "symbol": "WBTC",
+        "market_cap_rank": 19,
+        "thumb": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png",
+        "large": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
+      },
+      {
+        "id": "bitcoin-cash",
+        "name": "Bitcoin Cash",
+        "api_symbol": "bitcoin-cash",
+        "symbol": "BCH",
+        "market_cap_rank": 29,
+        "thumb": "https://assets.coingecko.com/coins/images/780/thumb/bitcoin-cash-circle.png",
+        "large": "https://assets.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png"
+      },
+      {
+        "id": "arbitrum",
+        "name": "Arbitrum",
+        "api_symbol": "arbitrum",
+        "symbol": "ARB",
+        "market_cap_rank": 42,
+        "thumb": "https://assets.coingecko.com/coins/images/16547/thumb/photo_2023-03-29_21.47.00.jpeg",
+        "large": "https://assets.coingecko.com/coins/images/16547/large/photo_2023-03-29_21.47.00.jpeg"
+      },
+      {
+        "id": "bitdao",
+        "name": "BitDAO",
+        "api_symbol": "bitdao",
+        "symbol": "BIT",
+        "market_cap_rank": 66,
+        "thumb": "https://assets.coingecko.com/coins/images/17627/thumb/rI_YptK8.png",
+        "large": "https://assets.coingecko.com/coins/images/17627/large/rI_YptK8.png"
+      },
+      {
+        "id": "whitebit",
+        "name": "WhiteBIT Token",
+        "api_symbol": "whitebit",
+        "symbol": "WBT",
+        "market_cap_rank": 71,
+        "thumb": "https://assets.coingecko.com/coins/images/27045/thumb/wbt_token.png",
+        "large": "https://assets.coingecko.com/coins/images/27045/large/wbt_token.png"
+      },
+      {
+        "id": "bitcoin-cash-sv",
+        "name": "Bitcoin SV",
+        "api_symbol": "bitcoin-cash-sv",
+        "symbol": "BSV",
+        "market_cap_rank": 72,
+        "thumb": "https://assets.coingecko.com/coins/images/6799/thumb/BSV.png",
+        "large": "https://assets.coingecko.com/coins/images/6799/large/BSV.png"
+      },
+      {
+        "id": "bitget-token",
+        "name": "Bitget Token",
+        "api_symbol": "bitget-token",
+        "symbol": "BGB",
+        "market_cap_rank": 80,
+        "thumb": "https://assets.coingecko.com/coins/images/11610/thumb/photo_2022-01-24_14-08-03.jpg",
+        "large": "https://assets.coingecko.com/coins/images/11610/large/photo_2022-01-24_14-08-03.jpg"
+      },
+      {
+        "id": "bittorrent",
+        "name": "BitTorrent",
+        "api_symbol": "bittorrent",
+        "symbol": "BTT",
+        "market_cap_rank": 86,
+        "thumb": "https://assets.coingecko.com/coins/images/22457/thumb/btt_logo.png",
+        "large": "https://assets.coingecko.com/coins/images/22457/large/btt_logo.png"
+      },
+      {
+        "id": "bitcoin-gold",
+        "name": "Bitcoin Gold",
+        "api_symbol": "bitcoin-gold",
+        "symbol": "BTG",
+        "market_cap_rank": 145,
+        "thumb": "https://assets.coingecko.com/coins/images/1043/thumb/bitcoin-gold-logo.png",
+        "large": "https://assets.coingecko.com/coins/images/1043/large/bitcoin-gold-logo.png"
+      },
+      {
+        "id": "bitrise-token",
+        "name": "Bitgert",
+        "api_symbol": "bitrise-token",
+        "symbol": "BRISE",
+        "market_cap_rank": 207,
+        "thumb": "https://assets.coingecko.com/coins/images/17388/thumb/bitgert.png",
+        "large": "https://assets.coingecko.com/coins/images/17388/large/bitgert.png"
+      },
+      {
+        "id": "bitcoin-avalanche-bridged-btc-b",
+        "name": "Bitcoin Avalanche Bridged (BTC.b)",
+        "api_symbol": "bitcoin-avalanche-bridged-btc-b",
+        "symbol": "BTC.B",
+        "market_cap_rank": 220,
+        "thumb": "https://assets.coingecko.com/coins/images/26115/thumb/btcb.png",
+        "large": "https://assets.coingecko.com/coins/images/26115/large/btcb.png"
+      },
+      {
+        "id": "bitkub-coin",
+        "name": "Bitkub Coin",
+        "api_symbol": "bitkub-coin",
+        "symbol": "KUB",
+        "market_cap_rank": 226,
+        "thumb": "https://assets.coingecko.com/coins/images/15760/thumb/KUB.png",
+        "large": "https://assets.coingecko.com/coins/images/15760/large/KUB.png"
+      },
+      {
+        "id": "rollbit-coin",
+        "name": "Rollbit Coin",
+        "api_symbol": "rollbit-coin",
+        "symbol": "RLB",
+        "market_cap_rank": 431,
+        "thumb": "https://assets.coingecko.com/coins/images/24552/thumb/unziL6wO_400x400.jpg",
+        "large": "https://assets.coingecko.com/coins/images/24552/large/unziL6wO_400x400.jpg"
+      },
+      {
+        "id": "bitmex-token",
+        "name": "BitMEX",
+        "api_symbol": "bitmex-token",
+        "symbol": "BMEX",
+        "market_cap_rank": 483,
+        "thumb": "https://assets.coingecko.com/coins/images/21831/thumb/bitmex-token.jpeg",
+        "large": "https://assets.coingecko.com/coins/images/21831/large/bitmex-token.jpeg"
+      },
+      {
+        "id": "bitcicoin",
+        "name": "Bitcicoin",
+        "api_symbol": "bitcicoin",
+        "symbol": "BITCI",
+        "market_cap_rank": 537,
+        "thumb": "https://assets.coingecko.com/coins/images/13816/thumb/output-onlinepngtools.png",
+        "large": "https://assets.coingecko.com/coins/images/13816/large/output-onlinepngtools.png"
+      },
+      {
+        "id": "bit2me",
+        "name": "Bit2Me",
+        "api_symbol": "bit2me",
+        "symbol": "B2M",
+        "market_cap_rank": 565,
+        "thumb": "https://assets.coingecko.com/coins/images/19848/thumb/b2m-circle-solid-default.png",
+        "large": "https://assets.coingecko.com/coins/images/19848/large/b2m-circle-solid-default.png"
+      },
+      {
+        "id": "bitcoin-diamond",
+        "name": "Bitcoin Diamond",
+        "api_symbol": "bitcoin-diamond",
+        "symbol": "BCD",
+        "market_cap_rank": 613,
+        "thumb": "https://assets.coingecko.com/coins/images/1254/thumb/bitcoin-diamond.png",
+        "large": "https://assets.coingecko.com/coins/images/1254/large/bitcoin-diamond.png"
+      },
+      {
+        "id": "bitshares",
+        "name": "BitShares",
+        "api_symbol": "bitshares",
+        "symbol": "BTS",
+        "market_cap_rank": 614,
+        "thumb": "https://assets.coingecko.com/coins/images/95/thumb/bts.png",
+        "large": "https://assets.coingecko.com/coins/images/95/large/bts.png"
+      },
+      {
+        "id": "bitmart-token",
+        "name": "BitMart",
+        "api_symbol": "bitmart-token",
+        "symbol": "BMX",
+        "market_cap_rank": 816,
+        "thumb": "https://assets.coingecko.com/coins/images/5236/thumb/bitmart-token.png",
+        "large": "https://assets.coingecko.com/coins/images/5236/large/bitmart-token.png"
+      },
+      {
+        "id": "xbit",
+        "name": "Xbit",
+        "api_symbol": "xbit",
+        "symbol": "XBT",
+        "market_cap_rank": 1008,
+        "thumb": "https://assets.coingecko.com/coins/images/18155/thumb/Artboard-1-1-150x150.png",
+        "large": "https://assets.coingecko.com/coins/images/18155/large/Artboard-1-1-150x150.png"
+      },
+      {
+        "id": "bitrue-token",
+        "name": "Bitrue Coin",
+        "api_symbol": "bitrue-token",
+        "symbol": "BTR",
+        "market_cap_rank": 1035,
+        "thumb": "https://assets.coingecko.com/coins/images/8873/thumb/Bittrue_logo.png",
+        "large": "https://assets.coingecko.com/coins/images/8873/large/Bittrue_logo.png"
+      },
+      {
+        "id": "nitro-cartel",
+        "name": "Arbitrove Governance Token",
+        "api_symbol": "nitro-cartel",
+        "symbol": "TROVE",
+        "market_cap_rank": 1061,
+        "thumb": "https://assets.coingecko.com/coins/images/29017/thumb/trove.png",
+        "large": "https://assets.coingecko.com/coins/images/29017/large/trove.png"
+      },
+      {
+        "id": "bitcoin-2",
+        "name": "Bitcoin 2",
+        "api_symbol": "bitcoin-2",
+        "symbol": "BTC2",
+        "market_cap_rank": 1194,
+        "thumb": "https://assets.coingecko.com/coins/images/5925/thumb/bitcoin2_logo256.png",
+        "large": "https://assets.coingecko.com/coins/images/5925/large/bitcoin2_logo256.png"
+      },
+      {
+        "id": "kan",
+        "name": "BitKan",
+        "api_symbol": "kan",
+        "symbol": "KAN",
+        "market_cap_rank": 1207,
+        "thumb": "https://assets.coingecko.com/coins/images/4651/thumb/kan-token.png",
+        "large": "https://assets.coingecko.com/coins/images/4651/large/kan-token.png"
+      }
+    ],
+    "exchanges": [
+      {
+        "id": "bitforex",
+        "name": "Bitforex",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/214/thumb/BitForex-Logo.png",
+        "large": "https://assets.coingecko.com/markets/images/214/large/BitForex-Logo.png"
+      },
+      {
+        "id": "upbit",
+        "name": "Upbit",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/117/thumb/upbit.png",
+        "large": "https://assets.coingecko.com/markets/images/117/large/upbit.png"
+      },
+      {
+        "id": "bitrue",
+        "name": "Bitrue",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/254/thumb/unnamed_%281%29.png",
+        "large": "https://assets.coingecko.com/markets/images/254/large/unnamed_%281%29.png"
+      },
+      {
+        "id": "bitmart",
+        "name": "BitMart",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/239/thumb/Bitmart.png",
+        "large": "https://assets.coingecko.com/markets/images/239/large/Bitmart.png"
+      },
+      {
+        "id": "bybit_spot",
+        "name": "Bybit",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/698/thumb/bybit_spot.png",
+        "large": "https://assets.coingecko.com/markets/images/698/large/bybit_spot.png"
+      },
+      {
+        "id": "bitget",
+        "name": "Bitget",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/540/thumb/Bitget_new_logo_2.png",
+        "large": "https://assets.coingecko.com/markets/images/540/large/Bitget_new_logo_2.png"
+      },
+      {
+        "id": "whitebit",
+        "name": "WhiteBIT",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/418/thumb/whitebit_final.png",
+        "large": "https://assets.coingecko.com/markets/images/418/large/whitebit_final.png"
+      },
+      {
+        "id": "coinsbit",
+        "name": "Coinsbit",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/267/thumb/Coinsbit.png",
+        "large": "https://assets.coingecko.com/markets/images/267/large/Coinsbit.png"
+      },
+      {
+        "id": "azbit",
+        "name": "Azbit",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/787/thumb/logo.png",
+        "large": "https://assets.coingecko.com/markets/images/787/large/logo.png"
+      },
+      {
+        "id": "uniswap_v3_arbitrum",
+        "name": "Uniswap (Arbitrum One)",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/702/thumb/uniswap-v3.png",
+        "large": "https://assets.coingecko.com/markets/images/702/large/uniswap-v3.png"
+      },
+      {
+        "id": "bitubu",
+        "name": "Bitubu Exchange",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/508/thumb/bitubu.png",
+        "large": "https://assets.coingecko.com/markets/images/508/large/bitubu.png"
+      },
+      {
+        "id": "bithumb",
+        "name": "Bithumb",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/6/thumb/bithumb_BI.png",
+        "large": "https://assets.coingecko.com/markets/images/6/large/bithumb_BI.png"
+      },
+      {
+        "id": "bitmax",
+        "name": "AscendEX (BitMax)",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/277/thumb/%E5%8E%9F%E8%89%B2.png",
+        "large": "https://assets.coingecko.com/markets/images/277/large/%E5%8E%9F%E8%89%B2.png"
+      },
+      {
+        "id": "bitfinex",
+        "name": "Bitfinex",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/4/thumb/BItfinex.png",
+        "large": "https://assets.coingecko.com/markets/images/4/large/BItfinex.png"
+      },
+      {
+        "id": "abit",
+        "name": "Abit",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/623/thumb/ABIT.jpg",
+        "large": "https://assets.coingecko.com/markets/images/623/large/ABIT.jpg"
+      },
+      {
+        "id": "bitstamp",
+        "name": "Bitstamp",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/9/thumb/bitstamp.jpg",
+        "large": "https://assets.coingecko.com/markets/images/9/large/bitstamp.jpg"
+      },
+      {
+        "id": "bit_com",
+        "name": "BIT",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/823/thumb/bit_old.jpg",
+        "large": "https://assets.coingecko.com/markets/images/823/large/bit_old.jpg"
+      },
+      {
+        "id": "yobit",
+        "name": "YoBit",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/46/thumb/yobit.png",
+        "large": "https://assets.coingecko.com/markets/images/46/large/yobit.png"
+      },
+      {
+        "id": "bitsoda",
+        "name": "Bitsoda",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/476/thumb/DMRkY0iq_400x400.jpg",
+        "large": "https://assets.coingecko.com/markets/images/476/large/DMRkY0iq_400x400.jpg"
+      },
+      {
+        "id": "trubit",
+        "name": "Trubit",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/1103/thumb/trubit.png",
+        "large": "https://assets.coingecko.com/markets/images/1103/large/trubit.png"
+      },
+      {
+        "id": "probit",
+        "name": "ProBit Global",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/370/thumb/probit.png",
+        "large": "https://assets.coingecko.com/markets/images/370/large/probit.png"
+      },
+      {
+        "id": "upbit_indonesia",
+        "name": "Upbit Indonesia ",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/483/thumb/UM9P5MNb_400x400.png",
+        "large": "https://assets.coingecko.com/markets/images/483/large/UM9P5MNb_400x400.png"
+      },
+      {
+        "id": "bitflyer",
+        "name": "bitFlyer",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/5/thumb/bitFlyer-logo.png",
+        "large": "https://assets.coingecko.com/markets/images/5/large/bitFlyer-logo.png"
+      },
+      {
+        "id": "bitvavo",
+        "name": "Bitvavo",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/714/thumb/bitvavo-mark-square-black.png",
+        "large": "https://assets.coingecko.com/markets/images/714/large/bitvavo-mark-square-black.png"
+      },
+      {
+        "id": "hotbit",
+        "name": "Hotbit",
+        "market_type": "spot",
+        "thumb": "https://assets.coingecko.com/markets/images/201/thumb/hotbit.jpg",
+        "large": "https://assets.coingecko.com/markets/images/201/large/hotbit.jpg"
+      }
+    ],
+    "icos": [],
+    "categories": [
+      {
+        "id": 145,
+        "name": "Move To Earn"
+      },
+      {
+        "id": 2,
+        "name": "Augmented Reality"
+      },
+      {
+        "id": 3,
+        "name": "Finance / Banking"
+      },
+      {
+        "id": 4,
+        "name": "Big Data"
+      },
+      {
+        "id": 5,
+        "name": "Business Services"
+      },
+      {
+        "id": 6,
+        "name": "Charity"
+      },
+      {
+        "id": 7,
+        "name": "Communication"
+      },
+      {
+        "id": 8,
+        "name": "Cryptocurrency"
+      },
+      {
+        "id": 130,
+        "name": "IoTeX Ecosystem"
+      },
+      {
+        "id": 10,
+        "name": "Education"
+      },
+      {
+        "id": 11,
+        "name": "Technology & Science"
+      },
+      {
+        "id": 12,
+        "name": "Energy"
+      },
+      {
+        "id": 13,
+        "name": "Entertainment"
+      },
+      {
+        "id": 14,
+        "name": "Gambling"
+      },
+      {
+        "id": 15,
+        "name": "Gig Economy"
+      },
+      {
+        "id": 16,
+        "name": "Healthcare"
+      },
+      {
+        "id": 17,
+        "name": "Infrastructure"
+      },
+      {
+        "id": 131,
+        "name": "KardiaChain Ecosystem"
+      },
+      {
+        "id": 19,
+        "name": "Investment"
+      },
+      {
+        "id": 20,
+        "name": "Legal"
+      },
+      {
+        "id": 21,
+        "name": "Manufacturing"
+      },
+      {
+        "id": 22,
+        "name": "Media"
+      },
+      {
+        "id": 64,
+        "name": "Tokenized Gold"
+      },
+      {
+        "id": 135,
+        "name": "Ohm Fork"
+      },
+      {
+        "id": 25,
+        "name": "Business Platform"
+      },
+      {
+        "id": 26,
+        "name": "Protocol"
+      },
+      {
+        "id": 27,
+        "name": "Real Estate"
+      },
+      {
+        "id": 28,
+        "name": "Retail"
+      },
+      {
+        "id": 30,
+        "name": "Software"
+      },
+      {
+        "id": 41,
+        "name": "Masternodes"
+      },
+      {
+        "id": 128,
+        "name": "Zilliqa Ecosystem"
+      },
+      {
+        "id": 33,
+        "name": "Virtual Reality"
+      },
+      {
+        "id": 182,
+        "name": "NFT Marketplace"
+      },
+      {
+        "id": 35,
+        "name": "Asset-backed Tokens"
+      },
+      {
+        "id": 129,
+        "name": "Tokenized Stock"
+      },
+      {
+        "id": 149,
+        "name": "Tezos Ecosystem"
+      },
+      {
+        "id": 165,
+        "name": "Interoperability"
+      },
+      {
+        "id": 40,
+        "name": "Index"
+      },
+      {
+        "id": 42,
+        "name": "Remittance"
+      },
+      {
+        "id": 43,
+        "name": "Social Money"
+      },
+      {
+        "id": 44,
+        "name": "TokenSets"
+      },
+      {
+        "id": 176,
+        "name": "Step Network Ecosystem"
+      },
+      {
+        "id": 46,
+        "name": "Marketing"
+      },
+      {
+        "id": 47,
+        "name": "ETF"
+      },
+      {
+        "id": 177,
+        "name": "Yearn Vault Tokens"
+      },
+      {
+        "id": 49,
+        "name": "Tokenized Products"
+      },
+      {
+        "id": 50,
+        "name": "CNY Stablecoin"
+      },
+      {
+        "id": 51,
+        "name": "USD Stablecoin"
+      },
+      {
+        "id": 52,
+        "name": "EUR Stablecoin"
+      },
+      {
+        "id": 53,
+        "name": "GBP Stablecoin"
+      },
+      {
+        "id": 54,
+        "name": "Tokenized BTC"
+      },
+      {
+        "id": 55,
+        "name": "Compound Tokens"
+      },
+      {
+        "id": 56,
+        "name": "Aave Tokens"
+      },
+      {
+        "id": 183,
+        "name": "ZkSync Ecosystem"
+      },
+      {
+        "id": 58,
+        "name": "Synths"
+      },
+      {
+        "id": 59,
+        "name": "Niftex Shards"
+      },
+      {
+        "id": 84,
+        "name": "Eth 2.0 Staking"
+      },
+      {
+        "id": 68,
+        "name": "LP Tokens"
+      },
+      {
+        "id": 72,
+        "name": "Binance Launchpool"
+      },
+      {
+        "id": 73,
+        "name": "DeFi Index"
+      },
+      {
+        "id": 74,
+        "name": "US Election 2020"
+      },
+      {
+        "id": 75,
+        "name": "Insurance"
+      },
+      {
+        "id": 76,
+        "name": "Axie Infinity"
+      },
+      {
+        "id": 81,
+        "name": "Seigniorage"
+      },
+      {
+        "id": 83,
+        "name": "Options"
+      },
+      {
+        "id": 86,
+        "name": "Mirrored Assets"
+      },
+      {
+        "id": 87,
+        "name": "KRW Stablecoin"
+      },
+      {
+        "id": 90,
+        "name": "Prediction Markets"
+      },
+      {
+        "id": 92,
+        "name": "Perpetuals"
+      },
+      {
+        "id": 94,
+        "name": "Asset Manager"
+      },
+      {
+        "id": 95,
+        "name": "HECO Chain Ecosystem"
+      },
+      {
+        "id": 96,
+        "name": "Synthetic Issuer"
+      },
+      {
+        "id": 100,
+        "name": "NFT Index"
+      },
+      {
+        "id": 105,
+        "name": "Number"
+      },
+      {
+        "id": 106,
+        "name": "Collectibles"
+      },
+      {
+        "id": 107,
+        "name": "Launchpad"
+      },
+      {
+        "id": 153,
+        "name": "Identity"
+      },
+      {
+        "id": 111,
+        "name": "uTokens"
+      },
+      {
+        "id": 126,
+        "name": "Fractionalized NFT"
+      },
+      {
+        "id": 158,
+        "name": "Ethereum PoS IOU"
+      },
+      {
+        "id": 114,
+        "name": "DaoMaker Ecosystem"
+      },
+      {
+        "id": 132,
+        "name": "Cardano Ecosystem"
+      },
+      {
+        "id": 116,
+        "name": "MEV Protection"
+      },
+      {
+        "id": 117,
+        "name": "RealT Tokens"
+      },
+      {
+        "id": 118,
+        "name": "Leveraged Token"
+      },
+      {
+        "id": 98,
+        "name": "Layer 1 (L1)"
+      },
+      {
+        "id": 139,
+        "name": "Moonbeam Ecosystem"
+      },
+      {
+        "id": 125,
+        "name": "Structured Products"
+      },
+      {
+        "id": 138,
+        "name": "OEC Ecosystem"
+      },
+      {
+        "id": 120,
+        "name": "Fantom Ecosystem"
+      },
+      {
+        "id": 141,
+        "name": "Farming-as-a-Service (FaaS)"
+      },
+      {
+        "id": 143,
+        "name": "Liquid Staking Tokens"
+      },
+      {
+        "id": 150,
+        "name": "Metagovernance"
+      },
+      {
+        "id": 32,
+        "name": "Tourism"
+      },
+      {
+        "id": 157,
+        "name": "Ethereum PoW IOU"
+      },
+      {
+        "id": 151,
+        "name": "XDC Ecosystem"
+      },
+      {
+        "id": 140,
+        "name": "Wormhole Assets"
+      },
+      {
+        "id": 155,
+        "name": "Algorand Ecosystem"
+      },
+      {
+        "id": 156,
+        "name": "Celer Network"
+      },
+      {
+        "id": 159,
+        "name": "Metis Ecosystem"
+      },
+      {
+        "id": 160,
+        "name": "Arbitrum Nova Ecosystem"
+      },
+      {
+        "id": 161,
+        "name": "Optimism Ecosystem"
+      },
+      {
+        "id": 162,
+        "name": "Velas Ecosystem"
+      },
+      {
+        "id": 136,
+        "name": "Moonriver Ecosystem"
+      },
+      {
+        "id": 122,
+        "name": "Arbitrum Ecosystem"
+      },
+      {
+        "id": 123,
+        "name": "Celo Ecosystem"
+      },
+      {
+        "id": 181,
+        "name": "Zero Knowledge (ZK)"
+      },
+      {
+        "id": 121,
+        "name": "Harmony Ecosystem"
+      },
+      {
+        "id": 39,
+        "name": "Exchange-based Tokens"
+      },
+      {
+        "id": 69,
+        "name": "NFT"
+      },
+      {
+        "id": 29,
+        "name": "Smart Contract Platform"
+      },
+      {
+        "id": 57,
+        "name": "Governance"
+      },
+      {
+        "id": 144,
+        "name": "Edgeware Ecosystem"
+      },
+      {
+        "id": 88,
+        "name": "Metaverse"
+      },
+      {
+        "id": 146,
+        "name": "Ethereum Ecosystem"
+      },
+      {
+        "id": 163,
+        "name": "Klaytn Ecosystem"
+      },
+      {
+        "id": 45,
+        "name": "Decentralized Finance (DeFi)"
+      },
+      {
+        "id": 167,
+        "name": "EthereumPoW Ecosystem"
+      },
+      {
+        "id": 170,
+        "name": "Kommunitas Launchpad"
+      },
+      {
+        "id": 178,
+        "name": "Canto Ecosystem"
+      },
+      {
+        "id": 180,
+        "name": "Layer 2 (L2)"
+      },
+      {
+        "id": 67,
+        "name": "Rebase Tokens"
+      },
+      {
+        "id": 79,
+        "name": "Yearn Ecosystem"
+      },
+      {
+        "id": 89,
+        "name": "Wrapped-Tokens"
+      },
+      {
+        "id": 34,
+        "name": "Storage"
+      },
+      {
+        "id": 77,
+        "name": "Yield Aggregator"
+      },
+      {
+        "id": 169,
+        "name": "Environment"
+      },
+      {
+        "id": 168,
+        "name": "Liquid Staking Governance Tokens"
+      },
+      {
+        "id": 166,
+        "name": "Internet Computer Ecosystem"
+      },
+      {
+        "id": 108,
+        "name": "Wallets"
+      },
+      {
+        "id": 171,
+        "name": "TRY Stablecoin"
+      },
+      {
+        "id": 172,
+        "name": "JPY Stablecoin"
+      },
+      {
+        "id": 173,
+        "name": "IDR Stablecoin"
+      },
+      {
+        "id": 174,
+        "name": "SGD Stablcoin"
+      },
+      {
+        "id": 148,
+        "name": "MultiversX Ecosystem"
+      },
+      {
+        "id": 65,
+        "name": "Yield Farming"
+      },
+      {
+        "id": 179,
+        "name": "Aptos Ecosystem"
+      },
+      {
+        "id": 70,
+        "name": "Automated Market Maker (AMM)"
+      },
+      {
+        "id": 112,
+        "name": "Near Protocol Ecosystem"
+      },
+      {
+        "id": 124,
+        "name": "Olympus Pro"
+      },
+      {
+        "id": 93,
+        "name": "Centralized Exchange (CEX)"
+      },
+      {
+        "id": 23,
+        "name": "Music"
+      },
+      {
+        "id": 31,
+        "name": "Sports"
+      },
+      {
+        "id": 82,
+        "name": "Derivatives"
+      },
+      {
+        "id": 62,
+        "name": "Analytics"
+      },
+      {
+        "id": 91,
+        "name": "Lending/Borrowing"
+      },
+      {
+        "id": 60,
+        "name": "Oracle"
+      },
+      {
+        "id": 175,
+        "name": "IOU tokens"
+      },
+      {
+        "id": 9,
+        "name": "Decentralized Exchange (DEX)"
+      },
+      {
+        "id": 18,
+        "name": "Internet of Things (IOT)"
+      },
+      {
+        "id": 48,
+        "name": "Reddit Points"
+      },
+      {
+        "id": 133,
+        "name": "Guild and Scholarship"
+      },
+      {
+        "id": 99,
+        "name": "Avalanche Ecosystem"
+      },
+      {
+        "id": 152,
+        "name": "Cronos Ecosystem"
+      },
+      {
+        "id": 115,
+        "name": "Gnosis Chain Ecosystem"
+      },
+      {
+        "id": 36,
+        "name": "Stablecoins"
+      },
+      {
+        "id": 37,
+        "name": "Privacy Coins"
+      },
+      {
+        "id": 97,
+        "name": "Solana Ecosystem"
+      },
+      {
+        "id": 71,
+        "name": "BNB Chain Ecosystem"
+      },
+      {
+        "id": 63,
+        "name": "Polkadot Ecosystem"
+      },
+      {
+        "id": 61,
+        "name": "Gaming (GameFi)"
+      },
+      {
+        "id": 147,
+        "name": "Gotchiverse"
+      },
+      {
+        "id": 142,
+        "name": "cToken"
+      },
+      {
+        "id": 127,
+        "name": "Impossible Launchpad"
+      },
+      {
+        "id": 113,
+        "name": "Meme"
+      },
+      {
+        "id": 110,
+        "name": "Polygon Ecosystem"
+      },
+      {
+        "id": 109,
+        "name": "Terra Ecosystem"
+      },
+      {
+        "id": 85,
+        "name": "Cosmos Ecosystem"
+      },
+      {
+        "id": 1,
+        "name": "Artificial Intelligence (AI)"
+      },
+      {
+        "id": 78,
+        "name": "Fan Token"
+      },
+      {
+        "id": 119,
+        "name": "Play To Earn"
+      }
+    ],
+    "nfts": [
+      {
+        "id": "rabbit-planet",
+        "name": "Rabbit Planet",
+        "symbol": "RABBIT PLANET",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/2488/thumb/rabbit-planet.png"
+      },
+      {
+        "id": "bit-bears-by-berachain",
+        "name": "Bit Bears by Berachain",
+        "symbol": "BITB",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/2114/thumb/bit-bears-by-berachain.png"
+      },
+      {
+        "id": "openseaonarbitrum",
+        "name": "OpenSea Arbitrum by Layer2DAO",
+        "symbol": "OPENSEAARB",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/1840/thumb/https-fanbase-1-s3-amazonaws-com-quixotic-collection-profile-1_kba2odb-png.png"
+      },
+      {
+        "id": "playboy-rabbitars-official",
+        "name": "Playboy Rabbitars Official",
+        "symbol": "PLAY",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/501/thumb/playboy-rabbitars-official.png"
+      },
+      {
+        "id": "nftclubarbitrum",
+        "name": "NFTCLUB Arbitrum",
+        "symbol": "NFTCLUB",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/1881/thumb/https-fanbase-1-s3-amazonaws-com-quixotic-collection-profile-xyshjlnp_400x400-png.png"
+      },
+      {
+        "id": "meebits",
+        "name": "Meebits",
+        "symbol": "⚇",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/28/thumb/meebits.png"
+      },
+      {
+        "id": "mad-rabbits-riot-club",
+        "name": "Mad Rabbits Riot Club",
+        "symbol": "MRRC",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/613/thumb/mad-rabbits-riot-club.png"
+      },
+      {
+        "id": "mycelium-ogs-arbitrum",
+        "name": "Mycelium OGs Arbitrum",
+        "symbol": "AMOGS",
+        "thumb": "missing_thumb.png"
+      },
+      {
+        "id": "genesis-genopets-habitats",
+        "name": "Genesis Genopets Habitats",
+        "symbol": "GENPETSHAB",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/2661/thumb/genesis-genopets-habitats.jpg"
+      },
+      {
+        "id": "bitch-better-have-my-money-by-rihanna-anotherblock",
+        "name": "Bitch Better Have My Money",
+        "symbol": "DROP5",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/2956/thumb/bitch-better-have-my-money-by-rihanna-anotherblock.png"
+      },
+      {
+        "id": "nyandogs",
+        "name": "Arbitrum Odyssey Nyans",
+        "symbol": "NDG",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/1849/thumb/https-fanbase-1-s3-amazonaws-com-quixotic-collection-profile-q2njikes_400x400-jpg.jpg"
+      },
+      {
+        "id": "rexbits",
+        "name": "REXBITS",
+        "symbol": "RXBT",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/3146/thumb/rexbits.png"
+      },
+      {
+        "id": "pgnft-club-civilization-rabbit",
+        "name": "PGNFT CLUB  CIVILIZATION RABBIT",
+        "symbol": "PCCR",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/2343/thumb/pgnft-club-civilization-rabbit.jpg"
+      },
+      {
+        "id": "orbit-69",
+        "name": "ORBIT 69",
+        "symbol": "ORB",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/2743/thumb/orbit-69.gif"
+      },
+      {
+        "id": "bitcoinorb",
+        "name": "BITCOINORB",
+        "symbol": "BTCORB",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/2944/thumb/bitcoinorb.png"
+      },
+      {
+        "id": "xrc",
+        "name": "X Rabbits Club",
+        "symbol": "XRC",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/248/thumb/Po8VPk0Q_400x400.jpg"
+      },
+      {
+        "id": "dotbit-bit-web3-identity",
+        "name": "dotbit: Web3 Identity",
+        "symbol": "DOTBIT",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/2765/thumb/dotbit-bit-web3-identity.png"
+      },
+      {
+        "id": "arbifan",
+        "name": "ARBITRUM FAN BADGE",
+        "symbol": "ARBITRUM",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/1835/thumb/https-fanbase-1-s3-amazonaws-com-quixotic-collection-profile-arbitrum_symbol-full-color-white-background-1405x1536_vhm29im-png.png"
+      },
+      {
+        "id": "rabbit-college-club",
+        "name": "Rabbit College Club",
+        "symbol": "RCC",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/931/thumb/rabbit-college-club.gif"
+      },
+      {
+        "id": "klayrabbit",
+        "name": "KlayRabbit",
+        "symbol": "RABBIT",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/1734/thumb/klayrabbit.png"
+      },
+      {
+        "id": "bit-kongz",
+        "name": "Bit Kongz",
+        "symbol": "BKNGZ",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/837/thumb/bit-kongz.png"
+      },
+      {
+        "id": "rabbits-rinu",
+        "name": "Rabbits - RINU",
+        "symbol": "RINU",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/2484/thumb/rabbits-rinu.png"
+      },
+      {
+        "id": "imtokenarbitrum",
+        "name": "imTokenArbitrum",
+        "symbol": "IMTOKEN",
+        "thumb": "missing_thumb.png"
+      },
+      {
+        "id": "arbitrumgoblinpunks",
+        "name": "ArbitrumGoblinPunks",
+        "symbol": "ABG",
+        "thumb": "missing_thumb.png"
+      },
+      {
+        "id": "deri-festival-on-arbitrum",
+        "name": "Deri Festival on Arbitrum",
+        "symbol": "DERI FESTIVAL NFT",
+        "thumb": "missing_thumb.png"
+      },
+      {
+        "id": "rich-rabbit-yacht-club",
+        "name": "Rich Rabbit Yacht Club",
+        "symbol": "RICHRABBIT",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/2373/thumb/rich-rabbit-yacht-club.png"
+      },
+      {
+        "id": "two-bit-bears",
+        "name": "TwoBitBears",
+        "symbol": "TBB",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/3102/thumb/twobit.png"
+      },
+      {
+        "id": "arbitrum-odyssey",
+        "name": "Arbitrum Odyssey NFT",
+        "symbol": "ARBITRUM",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/1822/thumb/https-fanbase-1-s3-amazonaws-com-quixotic-collection-profile-046qixwt_400x400-jpeg.jpg"
+      },
+      {
+        "id": "obits-official",
+        "name": "Obits Official",
+        "symbol": "0BITS",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/786/thumb/obits-official.png"
+      },
+      {
+        "id": "rabbithole-quests",
+        "name": "RabbitHole Quests",
+        "symbol": "RABBITHOLE-QUESTS",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/1622/thumb/https-fanbase-1-s3-amazonaws-com-quixotic-collection-profile-qx_collection_logo-png.png"
+      },
+      {
+        "id": "rabits",
+        "name": "RaBits",
+        "symbol": "RBT",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/3074/thumb/rabits.png"
+      },
+      {
+        "id": "8bit",
+        "name": "8 Bit Universe",
+        "symbol": "8BIT",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/94/thumb/8BIT.jpg"
+      },
+      {
+        "id": "eightbit-me",
+        "name": "EightBit Me",
+        "symbol": "BIT",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/548/thumb/eightbit-me.png"
+      },
+      {
+        "id": "killabits",
+        "name": "KILLABITS",
+        "symbol": "KILLABITS",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/2210/thumb/killabits.png"
+      },
+      {
+        "id": "hobbitshouse",
+        "name": "hobbits house",
+        "symbol": "HOBHOUSE",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/1660/thumb/https-fanbase-1-s3-amazonaws-com-quixotic-collection-profile-flauen_hobbit_house_in_a_tree_ac9d5fcb-c46f-408c-bb3d-01b770550599_k9rzg2g-png.png"
+      },
+      {
+        "id": "apebitrum",
+        "name": "Apebitrum",
+        "symbol": "APEBITRUM",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/2990/thumb/apebitrum.gif"
+      },
+      {
+        "id": "bitcoinbearclub",
+        "name": "Bitcoin Bear Club",
+        "symbol": "BBC",
+        "thumb": "https://assets.coingecko.com/nft_contracts/images/1284/thumb/unnamed.gif"
+      }
+    ]
+  }

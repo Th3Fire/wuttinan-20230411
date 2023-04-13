@@ -1,0 +1,110 @@
+{
+    "coins": [
+      {
+        "item": {
+          "id": "gulfcoin-2",
+          "coin_id": 26053,
+          "name": "GulfCoin",
+          "symbol": "GULF",
+          "market_cap_rank": 997,
+          "thumb": "https://assets.coingecko.com/coins/images/26053/thumb/gulf-coin-logo-A2F3BBC063-seeklogo.com.png?1655453831",
+          "small": "https://assets.coingecko.com/coins/images/26053/small/gulf-coin-logo-A2F3BBC063-seeklogo.com.png?1655453831",
+          "large": "https://assets.coingecko.com/coins/images/26053/large/gulf-coin-logo-A2F3BBC063-seeklogo.com.png?1655453831",
+          "slug": "gulfcoin",
+          "price_btc": 0.000002276909927107236,
+          "score": 0
+        }
+      },
+      {
+        "item": {
+          "id": "dynex",
+          "coin_id": 27776,
+          "name": "Dynex",
+          "symbol": "DNX",
+          "market_cap_rank": 983,
+          "thumb": "https://assets.coingecko.com/coins/images/27776/thumb/Transparent_Logo.png?1665728441",
+          "small": "https://assets.coingecko.com/coins/images/27776/small/Transparent_Logo.png?1665728441",
+          "large": "https://assets.coingecko.com/coins/images/27776/large/Transparent_Logo.png?1665728441",
+          "slug": "dynex",
+          "price_btc": 0.000007101898749660988,
+          "score": 1
+        }
+      },
+      {
+        "item": {
+          "id": "arbitrum",
+          "coin_id": 16547,
+          "name": "Arbitrum",
+          "symbol": "ARB",
+          "market_cap_rank": 42,
+          "thumb": "https://assets.coingecko.com/coins/images/16547/thumb/photo_2023-03-29_21.47.00.jpeg?1680097630",
+          "small": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg?1680097630",
+          "large": "https://assets.coingecko.com/coins/images/16547/large/photo_2023-03-29_21.47.00.jpeg?1680097630",
+          "slug": "arbitrum",
+          "price_btc": 0.00003931501886910393,
+          "score": 2
+        }
+      },
+      {
+        "item": {
+          "id": "silo-finance",
+          "coin_id": 21454,
+          "name": "Silo Finance",
+          "symbol": "SILO",
+          "market_cap_rank": 789,
+          "thumb": "https://assets.coingecko.com/coins/images/21454/thumb/y0iYKZOv_400x400.png?1639269432",
+          "small": "https://assets.coingecko.com/coins/images/21454/small/y0iYKZOv_400x400.png?1639269432",
+          "large": "https://assets.coingecko.com/coins/images/21454/large/y0iYKZOv_400x400.png?1639269432",
+          "slug": "silo-finance",
+          "price_btc": 0.0000028029661386640534,
+          "score": 3
+        }
+      },
+      {
+        "item": {
+          "id": "injective-protocol",
+          "coin_id": 12882,
+          "name": "Injective",
+          "symbol": "INJ",
+          "market_cap_rank": 88,
+          "thumb": "https://assets.coingecko.com/coins/images/12882/thumb/Secondary_Symbol.png?1628233237",
+          "small": "https://assets.coingecko.com/coins/images/12882/small/Secondary_Symbol.png?1628233237",
+          "large": "https://assets.coingecko.com/coins/images/12882/large/Secondary_Symbol.png?1628233237",
+          "slug": "injective",
+          "price_btc": 0.00022691117710095716,
+          "score": 4
+        }
+      },
+      {
+        "item": {
+          "id": "optimus-ai",
+          "coin_id": 29328,
+          "name": "Optimus AI",
+          "symbol": "OPTI",
+          "market_cap_rank": 534,
+          "thumb": "https://assets.coingecko.com/coins/images/29328/thumb/Optimus_AI_Logo.png?1678170818",
+          "small": "https://assets.coingecko.com/coins/images/29328/small/Optimus_AI_Logo.png?1678170818",
+          "large": "https://assets.coingecko.com/coins/images/29328/large/Optimus_AI_Logo.png?1678170818",
+          "slug": "optimus-ai",
+          "price_btc": 0.000014760270095678873,
+          "score": 5
+        }
+      },
+      {
+        "item": {
+          "id": "vela-token",
+          "coin_id": 28739,
+          "name": "Vela Token",
+          "symbol": "VELA",
+          "market_cap_rank": 659,
+          "thumb": "https://assets.coingecko.com/coins/images/28739/thumb/VELA_logo_-_no_background.png?1673839129",
+          "small": "https://assets.coingecko.com/coins/images/28739/small/VELA_logo_-_no_background.png?1673839129",
+          "large": "https://assets.coingecko.com/coins/images/28739/large/VELA_logo_-_no_background.png?1673839129",
+          "slug": "vela-token",
+          "price_btc": 0.0001057337241309256,
+          "score": 6
+        }
+      }
+    ],
+    "exchanges": []
+  }
