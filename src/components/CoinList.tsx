@@ -70,7 +70,6 @@ const CoinList = () => {
               component={Paper}
               borderRadius={4}
               sx={{
-                // minHeight: 30,
                 height: '100%',
                 overflow: 'hidden',
                 overflowY: 'auto',

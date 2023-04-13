@@ -10,12 +10,9 @@ function App() {
       <Box
         sx={{
           display: 'flex',
-
           padding: 2,
           height: 'calc(100vh - 64px)',
-          // overflow: 'hidden',
-          // overflowY: 'auto',
-          flexDirection: 'column' /*added*/,
+          flexDirection: 'column',
         }}
       >
         <Box sx={{ display: 'flex', gap: 2 }}>
